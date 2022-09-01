@@ -1,18 +1,18 @@
 {
-  "name": "backend",
+  "name": "new7",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3",
-    "mongoose": "^6.2.11",
-    "nodemon": "^2.0.15"
+    "express": "^4.18.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19"
   }
 }
